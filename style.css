@@ -1,0 +1,40 @@
+body {
+	background: rgb(230, 230, 230);
+	color: rgb(50,50,50);
+	front-family: Helvetica;
+	front-size: 17px;
+	text-align: center;
+}
+.perfectcircle{
+	border-radius: 50%;
+}
+h1,h2,h3{
+	front-family: Courier;
+}
+h1{
+	Color: darkblue;
+	front-size: 32px;
+}
+a.lien {
+	padding:  8px 8px;
+	margin:  16px auto;
+	border-radius:  6px;
+	border:  solid;
+	border-color:  lightblue;
+	color: darkblue;
+	background-color:  lightblue;
+	text-decoration: none;
+}
+a.lien:hover {
+	background-color:  darkblue;
+	color: lightblue;
+	text-decoration: none;
+}
+div	{
+	margin: 24px auto;
+	background: white;                        
+	padding: 30px;                             
+	border-radius: 4px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);    
+
+}
