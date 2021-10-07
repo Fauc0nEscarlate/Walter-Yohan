@@ -21,12 +21,12 @@ a.lien {
 	border-radius:  6px;
 	border:  solid;
 	border-color:  lightblue;
-	color: darkblue;
+	color: blue;
 	background-color:  lightblue;
 	text-decoration: none;
 }
 a.lien:hover {
-	background-color:  darkblue;
+	background-color:  blue;
 	color: lightblue;
 	text-decoration: none;
 }
