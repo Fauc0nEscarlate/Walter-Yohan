@@ -9,6 +9,7 @@ body {
 }
 .perfectcircle{
 	border-radius: 50%;
+	border : 0.5px solid black;
 }
 
 h1{
